@@ -31,8 +31,8 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Stripe
 
 ## Screenshots
-!["Home page"]()
+!["Home page"](https://github.com/kourtessis/Jungle/blob/master/public/images/Home%20Page.png?raw=true)
 
-!["Home page"]()
+!["Sold Out"](https://github.com/kourtessis/Jungle/blob/master/public/images/sold%20out.png?raw=true)
 
-!["Home page"]()
+!["Sign Up"](https://github.com/kourtessis/Jungle/blob/master/public/images/signup.png?raw=true)
